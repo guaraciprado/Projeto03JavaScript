@@ -1,2 +1,2 @@
 # Projeto03JavaScript
-Projeto desenvolvido em JavaScript para Faculdade Flamingo.
+Projeto estudantil 03 Faculdade Flamingo: Desenvolvido um site em Html e Css acesse link em "About".
